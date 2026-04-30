@@ -48,11 +48,9 @@ padding:80px 20px;
 width:200px;
 aspect-ratio:3/4;
 object-fit:cover;
-border-radius:16px;
+border-radius:12px;
+box-shadow:0 10px 25px rgba(0,0,0,0.2);
 margin-bottom:20px;
-box-shadow:
-0 10px 30px rgba(0,0,0,0.25),
-0 0 15px rgba(108,99,255,0.4);
 }
 
 .typing{
