@@ -45,6 +45,15 @@ padding:80px 20px;
 }
 
 .profile-frame{
+transition:0.4s;
+}
+
+.profile-frame:hover{
+transform:scale(1.05);
+}
+
+
+.profile-frame{
 width:160px;
 height:160px;
 margin:auto;
